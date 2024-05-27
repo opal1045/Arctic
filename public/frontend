@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arctic Proxy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Arctic Proxy</h1>
+    </header>
+
+    <div class="container">
+        <form class="proxy-form">
+            <input type="text" placeholder="Enter URL">
+            <button type="submit">Go</button>
+        </form>
+        <div class="proxy-results">
+            <!-- Proxy results will appear here -->
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Arctic Proxy. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
